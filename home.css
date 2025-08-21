@@ -1,0 +1,62 @@
+.home{
+    width: 100%;
+    display: flex;
+}
+
+.home{
+    /* width:35%; */
+    display: flex;
+}
+.home-1 ul li{
+    list-style-type: none;
+    /* text-decoration: none; */
+}
+.home-1 ul li h4{
+    color: red;
+}
+
+.home-2{
+    /* width:50%; */
+    display: flex;
+}
+.home-2 ul li{
+    list-style-type: none;
+    /* text-decoration: none; */
+}
+.home-2 ul li h4{
+    color: red;
+}
+
+.home-3{
+    /* width:70%; */
+    display: flex;
+}
+.home-3 ul li{
+    list-style-type: none;
+    /* text-decoration: none; */
+}
+.home-3 ul li h4{
+    color: red;
+}
+
+.home-4{
+    display:flex;
+}
+.home-4 ul li{
+    list-style-type: none;
+}
+.home-4 ul li h4{
+    color:red;
+}
+
+.home-5{
+    /* width:100%; */
+    display: flex;
+}
+.home-5 ul li{
+    list-style-type: none;
+    /* text-decoration: none; */
+}
+.home-5 ul li h4{
+    color: red;
+}
