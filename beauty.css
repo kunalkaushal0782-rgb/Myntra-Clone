@@ -1,0 +1,62 @@
+.beauty{
+    width: 100%;
+    display: flex;
+}
+
+.beauty-1{
+    /* width:35%; */
+    display: flex;
+}
+.beauty-1 ul li{
+    list-style-type: none;
+    /* text-decoration: none; */
+}
+.beauty-1 ul li h4{
+    color: red;
+}
+
+.beauty-2{
+    /* width:50%; */
+    display: flex;
+}
+.beauty-2 ul li{
+    list-style-type: none;
+    /* text-decoration: none; */
+}
+.beauty-2 ul li h4{
+    color: red;
+}
+
+.beauty-3{
+    /* width:70%; */
+    display: flex;
+}
+.beauty-3 ul li{
+    list-style-type: none;
+    /* text-decoration: none; */
+}
+.beauty-3 ul li h4{
+    color: red;
+}
+
+.beauty-4{
+    display:flex;
+}
+.beauty-4 ul li{
+    list-style-type: none;
+}
+.beauty-4 ul li h4{
+    color:red;
+}
+
+.beauty-5{
+    /* width:100%; */
+    display: flex;
+}
+.beauty-5 ul li{
+    list-style-type: none;
+    /* text-decoration: none; */
+}
+.beauty-5 ul li h4{
+    color: red;
+}
