@@ -1,0 +1,62 @@
+.women{
+    width: 100%;
+    display: flex;
+}
+
+.women-1{
+    /* width:35%; */
+    display: flex;
+}
+.women-1 ul li{
+    list-style-type: none;
+    /* text-decoration: none; */
+}
+.women-1 ul li h4{
+    color: red;
+}
+
+.women-2{
+    /* width:50%; */
+    display: flex;
+}
+.women-2 ul li{
+    list-style-type: none;
+    /* text-decoration: none; */
+}
+.women-2 ul li h4{
+    color: red;
+}
+
+.women-3{
+    /* width:70%; */
+    display: flex;
+}
+.women-3 ul li{
+    list-style-type: none;
+    /* text-decoration: none; */
+}
+.women-3 ul li h4{
+    color: red;
+}
+
+.try{
+    display:flex;
+}
+.try ul li{
+    list-style-type: none;
+}
+.try ul li h4{
+    color:red;
+}
+
+.women-5{
+    /* width:100%; */
+    display: flex;
+}
+.women-5 ul li{
+    list-style-type: none;
+    /* text-decoration: none; */
+}
+.women-5 ul li h4{
+    color: red;
+}
