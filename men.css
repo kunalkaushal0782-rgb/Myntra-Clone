@@ -1,0 +1,64 @@
+.men{
+    width: 100%;
+    display: flex;
+}
+
+.men-1{
+    /* width:35%; */
+    display: flex;
+}
+.men-1 ul li{
+    list-style-type: none;
+    /* text-decoration: none; */
+}
+.men-1 ul li h4{
+    color: red;
+}
+
+.men-2{
+    /* width:50%; */
+    display: flex;
+}
+.men-2 ul li{
+    list-style-type: none;
+    /* text-decoration: none; */
+}
+.men-2 ul li h4{
+    color: red;
+}
+
+.men-3{
+    /* width:70%; */
+    display: flex;
+}
+.men-3 ul li{
+    list-style-type: none;
+    /* text-decoration: none; */
+}
+.men-3 ul li h4{
+    color: red;
+}
+
+.men-4{
+    /* width:80%; */
+    display: flex;
+}
+.men-4 ul li{
+    list-style-type: none;
+    /* text-decoration: none; */
+}
+.men-4 ul li h4{
+    color: red;
+}
+
+.men-5{
+    /* width:100%; */
+    display: flex;
+}
+.men-5 ul li{
+    list-style-type: none;
+    /* text-decoration: none; */
+}
+.men-5 ul li h4{
+    color: red;
+}
